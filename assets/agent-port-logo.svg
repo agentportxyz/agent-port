@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="#ff4f9c">
+  <path fill-rule="evenodd" d="M22 23h20a11 11 0 0 1 11 11v12a11 11 0 0 1-11 11H22a11 11 0 0 1-11-11V34a11 11 0 0 1 11-11Zm1 11a8 8 0 0 0-8 8v1a8 8 0 0 0 8 8h18a8 8 0 0 0 8-8v-1a8 8 0 0 0-8-8Z"/>
+  <path d="M9 34a6 6 0 0 0-5 6v3a6 6 0 0 0 5 6Zm46 0a6 6 0 0 1 5 6v3a6 6 0 0 1-5 6ZM40 24l5-10 4 2-5 10z"/>
+  <rect x="42" y="10" width="9" height="9" rx="2" transform="rotate(21 46.5 14.5)"/>
+  <ellipse cx="26" cy="42.5" rx="3.3" ry="5"/>
+  <ellipse cx="38" cy="42.5" rx="3.3" ry="5"/>
+</svg>
